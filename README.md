@@ -1,10 +1,10 @@
 mudecode
-========
-                   mudecode - MIME / UU decoder
+mudecode - MIME / UU decoder
 
-Decodes uuencoded and MIME base64-encoded files.  Automatically skips
-leading and trailing junk lines.  Handles multiple input and output
-files.  See the manual entries for more details.
+Decodes uuencoded and MIME base64-encoded files.
+Automatically skips leading and trailing junk lines.
+Handles multiple input and output files.
+See the manual entries for more details.
 
 
 To install:
