@@ -13,8 +13,11 @@ See the manual entries for more details.
 ---------------------------------
 To install:
     Unpack the files.
+    
     Edit the Makefile to change the configuration options if necessary.
+    
     Make.
+    
     Make install.
 
 ---------------------------------
